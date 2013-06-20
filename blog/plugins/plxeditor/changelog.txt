@@ -1,0 +1,3 @@
+## Version 1.2 (20/10/2011) ##
+
+[+] Bouton pour ajouter des smilies

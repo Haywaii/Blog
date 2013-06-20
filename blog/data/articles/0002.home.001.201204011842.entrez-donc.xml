@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Entrez donc !]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Bonjour et bienvenue dans cet espace où vous pourrez partager un peu de mon temps</p>
+
+<p style="text-align:center"><img src="data/images/porte-ouverte.jpg" alt="Photo d'accueil" height="" width="" align="center"/></p>
+
+<p>Bonne lecture !</p>]]></content>
+	<tags><![CDATA[]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

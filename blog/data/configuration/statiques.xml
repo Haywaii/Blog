@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<statique number="008" active="1" menu="oui" url="http://ehalter.com/blog/" template="static.php"><group><![CDATA[]]></group><name><![CDATA[Accueil]]></name><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[]]></meta_keywords><title_htmltag><![CDATA[Accueil]]></title_htmltag></statique>
+	<statique number="005" active="1" menu="oui" url="a-propos" template="static.php"><group><![CDATA[]]></group><name><![CDATA[A propos]]></name><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag></statique>
+</document>

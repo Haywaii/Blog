@@ -1,0 +1,19 @@
+## Version 1.1.3 (26/04/2012) ##
+[+] Ecran de configuration du plugin: ajout du paramètre "nom du paramètre dans l'url"
+[+] Message d'information si aucune valeur saisie dans le champ de recherche
+
+## Version 1.1.2 (18/04/2012) ##
+BUG Mauvaise classe css pour le lien actif du menu Rechercher
+
+## Version 1.1.1 (16/04/2012) ##
+Mise à jour pour PluXml 5.1.6
+
+## Version 1.1 (01/02/2012) ##
+[+] Ne requiert plus l'utilisation de la fonction staticList pour accèder au formulaire
+[+] Paramètrage du libellé du bouton "Rechercher"
+[+] Affichage de la page dans le sitemap (requiert PluXml 5.1.6 minimum)
+BUG Messages d'erreurs à cause de variables non renseignées (warnings)
+BUG Message d'erreur lors d'une recherche dans une page statique si le fichier de la page n'existe plus
+
+## Version 1.0 (10/01/2012) ##
+version initiale

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Squelette du site]]></title>
+	<allow_com>0</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[Rendons à César ce qui est à César, le squelette du site a été fait par Cyril Maguire, contributeur régulier au projet PluXML (moteur du blog).<br />J'ai de mon côté pris ce squelette en le modifiant et en l'adaptant à mes envies. <br />Vous pouvez consulter son site ici : http://www.ecyseo.net/<br />]]></content>
+	<tags><![CDATA[]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+	<format><![CDATA[]]></format>
+</document>

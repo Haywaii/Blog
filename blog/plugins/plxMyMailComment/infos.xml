@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title><![CDATA[MyMailComment]]></title>
+	<author><![CDATA[Stéphane F. and contributors]]></author>
+	<version>1.1</version>
+	<date>20/10/2011</date>
+	<site>http://code.google.com/p/my-pluxml/</site>
+	<description><![CDATA[Envoi un mail à l'auteur d'un article quand un nouveau commentaire est posté]]></description>
+	<requirements></requirements>
+</document>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<parameter name="mnuDisplay" type="numeric">1</parameter>
+	<parameter name="mnuName" type="string">Contact</parameter>
+	<parameter name="mnuPos" type="numeric">4</parameter>
+	<parameter name="email" type="string">hbmanu@gmail.com</parameter>
+	<parameter name="email_cc" type="string"></parameter>
+	<parameter name="email_bcc" type="string"></parameter>
+	<parameter name="subject" type="string">Blog EmL - Prise de contact</parameter>
+	<parameter name="thankyou" type="string">Merci de m&#039;avoir contacté. Je vous répondrai le plus rapidement possible.</parameter>
+	<parameter name="template" type="string">static.php</parameter>
+</document>

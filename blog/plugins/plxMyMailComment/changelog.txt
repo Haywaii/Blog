@@ -1,0 +1,6 @@
+## Version 1.1 (20/10/2011) ##
+
+[+] Accès à l'administration du commentaire (contribution de Deevad)
+[+] Ajout de destinaires en copie et copie cachée du mail
+[+] Message d'alerte si fonction email non disponible
+BUG Prise en compte des conditions antispam (contribution de Deevad)

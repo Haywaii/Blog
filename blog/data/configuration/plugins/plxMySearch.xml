@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<parameter name="frmDisplay" type="numeric">0</parameter>
+	<parameter name="frmLibButton" type="string"></parameter>
+	<parameter name="mnuDisplay" type="numeric">0</parameter>
+	<parameter name="mnuName" type="string">Recherche</parameter>
+	<parameter name="mnuPos" type="numeric">2</parameter>
+	<parameter name="template" type="string">static.php</parameter>
+	<parameter name="url" type="string">search</parameter>
+</document>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Site web opérationnel]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[Bonjour tout le monde,<br /><br />Après une longue réflexion quant à l'utilité et la manière de créer mon site perso j'ai décidé de sauter le pas. C'est principalement l'envie de me remettre un peu aux technologies web qui a fait que celui-ci a vu le jour.<br />Au fur à mesure de sa création je me suis aperçu que je faisais d'une pierre deux coups : J'augmentais mes compétences en développement web (aussi mineures qu'elles soient) et je montais ma propre "marque" pour mon parcours professionnel.<br /><br />Voici donc le résultat de mon travail : http://ehalter.com/ <br /><br />Évidemment, le résultat est loin d'être parfait. Je dois notamment améliorer mon code pour qu'il soit respectueux à 200% du langage HTML5 et CSS3 et qu'il soit le plus ergonomique possible. Cela viendra avec l'expérience ! <br /><br />La priorité pour un futur proche est surtout de rendre mon site lisible pour différentes résolutions. Ne voulant pas me compliquer la vie, je vais voir pour utiliser le framework Bootstrap pour m'aider dans cette réalisation. <br />L'autre solution est de le faire moi même de façon à apprendre comment faire les choses à ce niveau (idée éducative mais plus longue à effectuer). <br /><br />Pour le contenu du site en lui même j'ai quelques idées en tête qui viendront dans une prochaine version plus tard dans l'année.<br /><br />Si vous avez d'autres idées en tête je suis bien entendu preneur :)<br /><br /><br /><br /><br />]]></content>
+	<tags><![CDATA[]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+	<format><![CDATA[]]></format>
+</document>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<plugin name="commentaires" activate="0"><![CDATA[]]></plugin>
+	<plugin name="plxMyContact" activate="1"><![CDATA[MyContact]]></plugin>
+	<plugin name="plugCalendar" activate="1"><![CDATA[plugCalendar]]></plugin>
+	<plugin name="plxMyMailComment" activate="1"><![CDATA[MyMailComment]]></plugin>
+	<plugin name="ckeditor" activate="1"><![CDATA[CKEditor]]></plugin>
+	<plugin name="plxtoolbar" activate="0"><![CDATA[]]></plugin>
+	<plugin name="plxMySearch" activate="0"><![CDATA[]]></plugin>
+	<plugin name="scrollToTop" activate="1"><![CDATA[scrollToTop]]></plugin>
+	<plugin name="jquery" activate="1"><![CDATA[jQuery 1.4.4]]></plugin>
+	<plugin name="plxmobile" activate="1"><![CDATA[Mobile]]></plugin>
+	<plugin name="plxMySkinSelect" activate="1"><![CDATA[MySkinSelect]]></plugin>
+	<plugin name="about" activate="1"><![CDATA[About]]></plugin>
+	<plugin name="plxeditor" activate="1"><![CDATA[plxEditor]]></plugin>
+	<plugin name="plxcapchaimage" activate="0"><![CDATA[]]></plugin>
+	<plugin name="plxPermalinks" activate="0"><![CDATA[]]></plugin>
+	<plugin name="plxzoombox" activate="1"><![CDATA[Zoombox2]]></plugin>
+</document>

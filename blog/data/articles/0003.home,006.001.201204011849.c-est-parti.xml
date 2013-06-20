@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[C'est parti !]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[<p>Me voici donc débarqué à Annecy pour de nouvelles aventures</p> <p>Fini Lyon place à la montagne et la Suisse. Eh oui je pars effectuer mon stage en Suisse et plus précisément sur Genève. Pendant 6 mois (et plus si affinité) j'habiterai sur Annecy et irai travailler sur Genève (frontaliers de merde). Du changement donc mais ça va faire du bien et c'est pas pour me déplaire !</p><p style="text-align: center;"><img src="data/images/Panneau-Geneve.JPG" alt="Photo Genève" height="300" width="300" align="middle" /></p>]]></content>
+	<tags><![CDATA[]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+</document>

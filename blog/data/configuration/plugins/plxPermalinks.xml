@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<parameter name="art_rule" type="string"></parameter>
+	<parameter name="static_rule" type="string"></parameter>
+	<parameter name="tags_rule" type="string"></parameter>
+	<parameter name="pagestags_rule" type="string"></parameter>
+	<parameter name="pagesimple_rule" type="string"></parameter>
+	<parameter name="cat_rule" type="string"></parameter>
+	<parameter name="pagescat_rule" type="string"></parameter>
+	<parameter name="archYM_rule" type="string"></parameter>
+	<parameter name="archY_rule" type="string"></parameter>
+	<parameter name="pagesarchYM_rule" type="string"></parameter>
+	<parameter name="pagesarchY_rule" type="string"></parameter>
+	<parameter name="code" type="string">$output=(isset($_SERVER[&quot;REDIRECT_URL&quot;])?str_replace($_SERVER[&quot;REDIRECT_URL&quot;],&quot;#@@plxpREDIRECT_URL@@#&quot;,$output):$output);$output=preg_replace(&quot;#http://ehalter.com/blog/@#&quot;,&quot;http://ehalter.com/blog/&quot;,$output);$output=(isset($_SERVER[&quot;REDIRECT_URL&quot;])?str_replace(&quot;#@@plxpREDIRECT_URL@@#&quot;,$_SERVER[&quot;REDIRECT_URL&quot;],$output):$output);</parameter>
+</document>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Enthuse : création de page professionnelle simplifiée]]></title>
+	<allow_com>1</allow_com>
+	<template><![CDATA[article.php]]></template>
+	<chapo><![CDATA[]]></chapo>
+	<content><![CDATA[Enthuse est un outil capable de générer une page web et qui permet de façon très rapide et simpliste de créer une page professionnelle ou de simplement mettre en avant sa passion ou une compétence particulière de votre personne.<br /><br />Le but premier est de promouvoir votre profil sans pour antant passer de nombreuses heures à créer votre propre page web. Enthuse s'occupe de tout à votre place. <br />Si vous n'avez pas de compétences particulières en développement web ou que vous ne voulez pas vous compliquer la vie, ce site est surement une bonne alternative !<br /><br />Il peut remplacer par exemple votre CV (ou le compléter) et vous présenter de manière un peu plus originale qu'une feuille de papier A4. <br /><br />Bien entendu, Enthuse vous permet quand même de customiser une grande partie de ce que vous voulez afficher (notamment créer un design simple pour votre page). L'outil est pour l'instant en version beta mais les rajouts de fonctionnalités arrivent petit à petit via l'équipe de développement d'Enthuse.me<br /><br />Si vous savez déjà les informations que vous voulez faire apparaitre sur votre page, la création de celle-ci ne vous prendra guère plus de 5 minutes.&nbsp; <br /><br />Si vous voulez en savoir plus je vous invite à consulter ce <a href="http://www.enthuse.me/" onclick="window.open(this.href);return false">lien </a>(uniquement en anglais).<br /><br />Et même si je ne pense pas me servir de cet outil par la suite (je préfère développer ma propre interface), voici un <a href="http://www.enthuse.me/hmanu" onclick="window.open(this.href);return false">exemple </a>que j'ai effectué en 5min !<br />]]></content>
+	<tags><![CDATA[]]></tags>
+	<meta_description><![CDATA[]]></meta_description>
+	<meta_keywords><![CDATA[]]></meta_keywords>
+	<title_htmltag><![CDATA[]]></title_htmltag>
+	<format><![CDATA[]]></format>
+</document>

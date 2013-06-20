@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<parameter name="theme" type="string">zoombox</parameter>
+	<parameter name="opacity" type="string">0.6</parameter>
+	<parameter name="duration" type="string">800</parameter>
+	<parameter name="animation" type="string">true</parameter>
+	<parameter name="width" type="string">800</parameter>
+	<parameter name="height" type="string">600</parameter>
+	<parameter name="gallery" type="string">true</parameter>
+	<parameter name="autoplay" type="string">true</parameter>
+	<parameter name="overflow" type="string">true</parameter>
+</document>

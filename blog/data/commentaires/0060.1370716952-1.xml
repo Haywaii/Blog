@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<comment>
+	<author><![CDATA[Karganys]]></author>
+	<type>normal</type>
+	<ip>46.193.142.161</ip>
+	<mail><![CDATA[jeremy.levallois@gmail.com]]></mail>
+	<site><![CDATA[http://www.karganys.fr]]></site>
+	<content><![CDATA[Je n&#039;aime pas *du tout* Prezi.
+- Déjà, parce que c&#039;est en Flash, du coup ce n&#039;est pas portable du tout, pas adapté aux devices qui sont de plus en plus utilisés, comme les smartphones.
+- Ensuite, Prezi, ça a fait le buzz en 2009/2010, beaucoup *BEAUCOUP* de personnes l&#039;ont utilisé à excès pour leurs présentations. C&#039;était limite il n&#039;y avait que ça dans cette période (dont la plupart des présentations à l&#039;université). Alors oui, ça donne un effet Whaou à ses présentations, mais quand tout le monde l&#039;utilise, ça pert beaucoup de son charme.
+
+&quot;c&#039;est le fait de vraiment mettre en avant l&#039;information que l&#039;on veut passer à travers notre présentation&quot;
+Je trouve que c&#039;est l&#039;inverse justement, à cause de toutes les transitions, les slides manquent de lisibilité si elles ne sont pas _parfaitement_ étudiées. Je me souvient avoir vu plusieurs présentations avec des mots dans tous les sens et me demandait ce qu&#039;il fallait lire au final.
+
+À noter qu&#039;il existe un projet similaire en CSS3: Impress.js - https://github.com/bartaz/impress.js/#readme (avec une démo)]]></content>
+	<parent><![CDATA[0]]></parent>
+</comment>

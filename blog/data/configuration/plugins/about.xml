@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<parameter name="about" type="cdata"><![CDATA[data/configuration/about.xml]]></parameter>
+	<parameter name="pub_title" type="cdata"><![CDATA[A propos]]></parameter>
+	<parameter name="width" type="numeric">54</parameter>
+	<parameter name="height" type="numeric">54</parameter>
+	<parameter name="depth" type="numeric">4</parameter>
+</document>
